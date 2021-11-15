@@ -1,10 +1,12 @@
 # 崩坏3壁纸合集
 
+![logo](https://creeper2077.coding.net/p/hobby/d/honkai3-wallpaper/git/raw/master/logo.png?download=false)
+
 ## 关于
 **崩崩崩五周年快乐||o(*°▽°*)o|Ю** 
 本仓库收录了这些年来官方发布的精选壁纸
-所有的图片都是人工翻出来的,工作量极大,喜欢的话就给个[*Star*](https://gitea.com/creeper2077/honkai3-wallpaper/stars) 吧ヾ(≧▽≦*)o
-> Tips: 可前往[Realease](https://gitea.com/creeper2077/honkai3-wallpaper/releases)界面下载压缩包
+所有的图片都是人工翻出来的,工作量极大,喜欢的话就给个 *Star* 吧ヾ(≧▽≦*)o
+> Tips: 可前往[Realease](https://creeper2077.coding.net/p/hobby/d/honkai3-wallpaper/git/releases)界面下载压缩包
 
 ## 免责申明
 > 本项目仅为方便大家使用,请勿用于其他用途
@@ -12,9 +14,9 @@
 © miHoYo
 
 ## 来源
-崩坏3官网-动画壁纸([offcial目录](https://gitea.com/creeper2077/honkai3-wallpaper/src/branch/master/offcial))
+崩坏3官网-动画壁纸([offcial目录](/offcial))
 
-B站([bilibli目录](https://gitea.com/creeper2077/honkai3-wallpaper/src/branch/master/bilibili))
+B站([bilibli目录](/bilibili))
 * *崩坏3~~第一~~第三偶像爱酱* 的动态
 * *崩坏3* 的动态(绝大多数)
 
