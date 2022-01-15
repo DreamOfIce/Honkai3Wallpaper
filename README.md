@@ -1,38 +1,36 @@
-# 崩坏3壁纸合集
+# 崩坏3壁纸集
 
-![logo](https://random-api.creeper2077.online/img.php?game=bh3)
+![logo](https://bh3.mihoyo.com/favicon.ico)  
+![Stars](https://img.shields.io/github/stars/DreamOfIce/honkai3Wallpaper) ![下载次数](https://img.shields.io/github/downloads/DreamOfIce/honkai3Wallpaper/total) ![提交历史](https://img.shields.io/github/commit-activity/y/DreamOfIce/honkai3Wallpaper) ![最新提交](https://img.shields.io/github/last-commit/DreamOfIce/honkai3Wallpaper) ![jsDelivr](https://img.shields.io/jsdelivr/gh/hy/DreamOfIce/honkai3Wallpaper)  
 
-## 关于
-**崩崩崩五周年快乐||o(*°▽°*)o|Ю** 
-本仓库收录了这些年来官方发布的精选壁纸  
-所有的图片都是人工翻出来的,工作量极大,喜欢的话就给个 *Star* 吧ヾ(≧▽≦*)o  
-> Tips: [最新存档下载](https://creeper2077.coding.net/p/miHoYo/d/honkai3-wallpaper/git/archive/211117.zip)
+**祝崩崩崩五周年快乐||o(*°▽°*)o|Ю**  
+![五周年](https://cdn.jsdelivr.net/gh/DreamOfIce/honkai3-wallpaper@master/offcial/2021092217442572336.png)  
+[TOC]  
 
-## 免责申明
-> 本项目仅为方便大家使用,请勿用于其他用途  
-部分作品为同人画师所作,但由官方在动态发布,也收录了进来  
-© miHoYo
+本仓库收录了这些年来官方发的精选壁纸  
+图片皆为原图,所以格式和分辨率不一(部分有10M+)   
+所有的图片都是人工翻出来的,更新可能会有些不及时,请多多谅解 ヾ(≧▽≦*)o  
+欢迎PR和补充  
+喜欢的话麻烦在Github上给个Star吧q(≧▽≦q)  
+[Github(国外)](https://github.com/DreamOfIce/honkai3Wallpaper) | [Coding(国内)](https://dreamofice.coding.net/public/public/honkai3Wallpaper/git/files)  
 
-## 来源
-崩坏3官网-动画壁纸([offcial目录](//creeper2077.coding.net/public/miHoYo/honkai3-wallpaper/git/files/master/offcial))  
+## 打包下载  
+- Coding : 前往[标签](https://dreamofice.coding.net/public/public/honkai3Wallpaper/git/tags)页面,下载最新的存档  
+- Github : [Realese](https://github.com/DreamOfIce/honkai3Wallpaper/releases)页面下载最新版本  
+## 来源  
+- [崩坏3官网-动画壁纸](https://bh3.mihoyo.com/wallpapers)  
+- `崩坏3第一第三偶像爱酱` 及`崩坏3`的b站动态  
 
-B站动态([bilibli目录](//creeper2077.coding.net/public/miHoYo/honkai3-wallpaper/git/files/master/bilibili))  
-* *崩坏3~~第一~~第三偶像爱酱* 的动态  
-* *崩坏3* 的动态(绝大多数)  
+## web引用  
+推荐jsDelivr(仅限个人使用):
+````
+    https://cdn.jsdelivr.net/gh/DreamOfIce/honkai3-wallpaper@master/[图片路径]  
+````
+· 请遵守jsDelivr的[使用条款](https://www.jsdelivr.com/terms/acceptable-use-policy-jsdelivr-net),不要滥用服务及其资源，或将 jsDelivr 用作通用文件或媒体托管服务!  
 
-## 我的博客
-[冰雪殇璃陌梦の小站](https://www.creeper2077.online)  
+## 我的博客  
+[冰雪殇璃陌梦の小站](https://www.dreamofice.cn)    
 
-## 随机图片
-如果你希望随机展示这些图片，请参见我的[另一个项目](https://github.com/Creeper2077/randoma-api)  
-演示:
-![随机图片](https://random-api.creeper2077.online/img.php)  
-
-<audio src="https://random-api.creeper2077.online/music.php" controls="controls" autoplay='autoplay' preload="auto">似乎不支持预览(っ °Д °;)っ</audio>  
-
-<video controls="controls">
-  <source src="https://random-api.creeper2077.online/video.php" type="video/webm" />  
-</video>
-
-## LICENSE  
-本项目使用CC BY 4.0协议授权  
+## LICENSE   
+- 资源来自网络,版权归miHoYo所有  
+- 本项目使用CC BY 4.0协议授权   
